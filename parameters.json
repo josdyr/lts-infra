@@ -1,33 +1,33 @@
 {
-    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
-    "contentVersion": "1.0.0.0",
-    "parameters": {
-        "vulnerabilityAssessments_Default_storageContainerPath": {
-            "value": null
-        },
-        "sites_app_lts_name": {
-            "value": null
-        },
-        "servers_sql_lts_name": {
-            "value": null
-        },
-        "sites_app_lts_app_name": {
-            "value": null
-        },
-        "vaults_kv_lts_name": {
-            "value": null
-        },
-        "serverfarms_asp_lts_name": {
-            "value": null
-        },
-        "serverfarms_asp_app_lts_name": {
-            "value": null
-        },
-        "WebPubSub_wps_communication_name": {
-            "value": null
-        },
-        "userAssignedIdentities_mi_lts_name": {
-            "value": null
-        }
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "vulnerabilityAssessments_Default_storageContainerPath": {
+      "value": null
+    },
+    "sites_app_lts_name": {
+      "value": null
+    },
+    "servers_sql_lts_name": {
+      "value": null
+    },
+    "sites_app_lts_app_name": {
+      "value": null
+    },
+    "vaults_kv_lts_name": {
+      "value": null
+    },
+    "serverfarms_asp_lts_name": {
+      "value": null
+    },
+    "serverfarms_asp_app_lts_name": {
+      "value": null
+    },
+    "WebPubSub_wps_communication_name": {
+      "value": null
+    },
+    "userAssignedIdentities_mi_lts_name": {
+      "value": null
     }
+  }
 }
